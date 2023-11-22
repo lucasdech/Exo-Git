@@ -277,7 +277,7 @@ p {
 /* FIN CODE MATTHIEU */
 /* ################# */
 
-* ################# */
+/* ################# */
 /* DEBUT CODE ORLANE */
 /* ################# */
 
@@ -479,4 +479,33 @@ p {
 
 /* ################# */
 /* FIN CODE Willy */
+/* ################# */
+
+
+/* ################# */
+/* DEBUT CODE Lucas */
+/* ################# */
+
+.Lucas-card {
+      
+  width: 350px;
+  border: red solid 8px;
+  max-height: 250px;
+  
+  
+}
+
+.Lucas-card h1{
+
+  color:red;  
+  margin-top: 3px;
+  margin-right: 3px;
+
+
+
+}
+
+
+/* ################# */
+/* FIN CODE Lucas */
 /* ################# */
