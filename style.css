@@ -491,17 +491,33 @@ p {
   width: 350px;
   border: red solid 8px;
   max-height: 250px;
-  
+  background-color: black;
   
 }
 
 .Lucas-card h1{
-
+  width: 60%;
   color:red;  
-  margin-top: 3px;
-  margin-right: 3px;
+  border:red solid 3px;
+  text-align: center;
+  margin-top: -80px;
+  margin-left: 100px;
 
+}
 
+.Lucas-card p{
+
+  color: red;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bold;
+  margin-left:30%;
+}
+
+#image-bas {
+
+      border-radius:0%;
+      width: 95%;
+      height: 80px;
 
 }
 
